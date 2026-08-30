@@ -3,3 +3,4 @@ This is my very first repository on GitHub!
 **Author:** Andres Lopez
 **Date Created:** Aug 30, 2026
 **Purpose:** Practicing GitHub basics, including creating a repository and a README file.
+**Repo:** Your project folder on GitHub, plus its full change history.
